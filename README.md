@@ -1,17 +1,10 @@
 ## Water and Electricity Bill Calculator
 
-
-
-
-
-To help households monitor their water and electricity bills and encourage responsible resource consumption to reduce unnecessary usage.
-
-# Project-Proposal-CS2---Water-Electricity-Bill-Calculator
-#Water & Electricity Bill Calculator
-## Project Proposal: Water and Electricity Bill Calculator
-
 •Problem Statement
 -Some home’s may forget their total bill’s or over-use and waste the resource’s of their 
+
+•Problem Objective
+-To help households monitor their water and electricity bills and encourage responsible resource consumption.
 
 
 The program will calculate water bills based on the selected water provider's rate (e.g., Prime Water at ₱4 per liter, Manila Water at ₱3 per liter, or S-Water Service at ₱2 per liter). It will also calculate electricity bills according to the chosen electricity provider's rate (e.g., Leyeco at ₱4 per kWh or Flash at ₱2 per kWh). Finally, the program will display the calculated water bill, electricity bill, and total amount to be payed
